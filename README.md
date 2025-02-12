@@ -36,13 +36,8 @@ Opal is a comprehensive application designed to streamline screen recording and 
 ## Project Repositories
 
 ### Web Application
-[opal-webprodigies](https://github.com/nihalGound/opal-webprodigies): Contains the Next.js application for video management and collaboration.
+[opal-webprodigies](https://github.com/EGJJR/opal-webprodigies): Contains the Next.js application for video management and collaboration.
 
-### Desktop Application
-[opal-electron-desktop-app](https://github.com/nihalGound/opal-electron-desktop-app): Contains the Electron.js desktop app for screen recording and real-time uploads.
-
-### Video Processing Server
-[opal-express](https://github.com/nihalGound/opal-express): Contains the Express.js server for processing and updating video data.
 
 ---
 
